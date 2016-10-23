@@ -1,4 +1,4 @@
 <?php
-echo "hello, from homebase.terror";
+echo "hello, from my couch";
 
 ?>
