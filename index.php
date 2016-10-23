@@ -1,4 +1,4 @@
 <?php
-echo "help me";
+echo "hello, from ";
 
 ?>
